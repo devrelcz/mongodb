@@ -1,5 +1,5 @@
 {
-  "name": "@activepieces/piece-mongodb",
+  "name": "@devrelcz/piece-mongodb",
   "version": "0.0.1",
   "dependencies": {
     "@types/node": "^20.12.2",
