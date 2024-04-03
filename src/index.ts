@@ -35,7 +35,7 @@
       displayName: "MongoDB",
       auth: mongoDbAuth,
       minimumSupportedRelease: '0.20.0',
-      logoUrl: "https://cdn.iconscout.com/icon/premium/png-512-thumb/mongodb-5363123-4488912.png",
+      logoUrl: "https://raw.githubusercontent.com/devrelcz/mongodb/master/images/mongodb.png",
       authors: ["Daniel Rataj <info@devrel.cz>"],
       actions: [
         find
