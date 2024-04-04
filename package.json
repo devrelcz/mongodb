@@ -1,6 +1,6 @@
 {
   "name": "@devrelcz/piece-mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@types/node": "^20.12.2",
     "mongodb": "^6.5.0"
